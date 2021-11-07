@@ -5,8 +5,8 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    btnIntro : '^^ HiHi ^^' ,
+    title : 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên'🥴 ,
     desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me' //link mess của các bạn. VD: /dinhkaito
+    messLink : 'https://m.me'  // liên kết lộn xộn của các bạn. danggkhoi
 }
